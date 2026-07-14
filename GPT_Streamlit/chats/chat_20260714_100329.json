@@ -1,0 +1,22 @@
+[
+    {
+        "role": "system",
+        "content": "You are a helpful assistant."
+    },
+    {
+        "role": "user",
+        "content": "hello nigga"
+    },
+    {
+        "role": "assistant",
+        "content": "I\u2019m here to help, but I\u2019d like to remind you to use respectful language. How can I assist you today?"
+    },
+    {
+        "role": "user",
+        "content": "no i don't waana"
+    },
+    {
+        "role": "assistant",
+        "content": "That's perfectly fine! How can I assist you in a different way?"
+    }
+]
